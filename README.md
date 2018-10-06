@@ -11,3 +11,5 @@
 **[5]** Matas, Jan, Stephen James, and Andrew J. Davison. "Sim-to-Real Reinforcement Learning for Deformable Object Manipulation." arXiv preprint arXiv:1806.07851 (2018).
 
 **[6]** Peng, Xue Bin, et al. "Sim-to-real transfer of robotic control with dynamics randomization." 2018 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2018.
+
+**[7]** Julian, Ryan, et al. "Scaling simulation-to-real transfer by learning composable robot skills." arXiv preprint arXiv:1809.10253 (2018).
